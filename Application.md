@@ -12,3 +12,11 @@
 1. **A Novel Image Feature for RUL Preduction of Bearings Based on CWT and CNN** Youngji Yoo, Jun-Geol Baek [PDF](https://www.researchgate.net/publication/326283183_A_Novel_Image_Feature_for_the_Remaining_Useful_Lifetime_Prediction_of_Bearings_Based_on_Continuous_Wavelet_Transform_and_Convolutional_Neural_Network)
 2. **Prediction of Bearing Remaining Useful Life With Deep Convolution Neural Network** LEI REN, YAQIANG SUN, HAO WANG, LIN ZHANG [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8289436)
 
+### Object Detection
+
+1. **Decoupled Classification Refinement: Hard False Positive Suppression for Object Detection** Bowen Cheng, Yunchao Wei, Honghui Shi, Rogerio Schmidt Feris, Jinjun Xiong, and Thomas Huang [PDF](https://arxiv.org/pdf/1810.04002.pdf)
+
+### Image Classification
+
+1. **Between-class Learning for Image Classification** Yuji Tokozume, Yoshitaka Ushiku, Tatsuya Harada [PDF](https://arxiv.org/pdf/1711.10284.pdf)
+
