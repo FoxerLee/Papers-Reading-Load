@@ -13,3 +13,5 @@
 
 1. **Learning to Compare: Relation Network for Few-Shot Learning** Flood Sung, Yongxin Yang, Li Zhang, Tao Xiang, Philip H.S. Torr, Timothy M. Hospedales [PDF](https://arxiv.org/pdf/1711.06025.pdf)
 
+### Data Augmentation
+1. **AutoAugment: Learning Augmentation Policies from Data** Ekin D. Cubuk, Barret Zoph, Dandelion Mané, Vijay Vasudevan, Quoc V. Le [PDF](https://arxiv.org/pdf/1805.09501.pdf)
