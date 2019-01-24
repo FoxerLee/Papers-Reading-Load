@@ -4,6 +4,7 @@
 1. **Xception: Deep Learning with Depthwise Separable Convolutions** François Chollet [PDF](https://arxiv.org/pdf/1610.02357.pdf)
 2. **ResNet - Deep Residual Learning for Image Recognition** Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun [PDF](https://arxiv.org/pdf/1512.03385.pdf)
 3. **Spatial transformer networks** Max Jaderberg, Karen Simonyan, Andrew Zisserman, Koray Kavukcuoglu [PDF](https://arxiv.org/pdf/1506.02025.pdf)
+4. **Training Neural Networks with Local Error Signals** Arild Nøkland, Lars H. Eidnes [PDF](https://arxiv.org/pdf/1901.06656v1.pdf)
 
 ### Data Analysis
 
@@ -15,3 +16,8 @@
 
 ### Data Augmentation
 1. **AutoAugment: Learning Augmentation Policies from Data** Ekin D. Cubuk, Barret Zoph, Dandelion Mané, Vijay Vasudevan, Quoc V. Le [PDF](https://arxiv.org/pdf/1805.09501.pdf)
+
+### Denoising
+
+1. **Image Blind Denoising With Generative Adversarial Network Based Noise Modeling** Jingwen Chen, Jiawei Chen, Hongyang Chao, Ming Yang [PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Image_Blind_Denoising_CVPR_2018_paper.pdf)
+
