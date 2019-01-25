@@ -7,3 +7,7 @@
 ### OCR
 1. **The SCUT-EPT Dataset for the research of offline handwritten Chinese text recognition** [Download](https://github.com/HCIILAB/SCUT-EPT_Dataset_Release)
 
+### Image(Medical)
+
+1. **CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison** [PDF](https://arxiv.org/pdf/1901.07031.pdf) [Download](https://stanfordmlgroup.github.io/competitions/chexpert/)
+

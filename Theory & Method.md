@@ -16,8 +16,10 @@
 
 ### Data Augmentation
 1. **AutoAugment: Learning Augmentation Policies from Data** Ekin D. Cubuk, Barret Zoph, Dandelion Mané, Vijay Vasudevan, Quoc V. Le [PDF](https://arxiv.org/pdf/1805.09501.pdf)
+2. **Smart Augmentation Learning an Optimal Data Augmentation Strategy** Joseph Lemley, Shabab Bazrafkan, Peter Corcoran [PDF](https://arxiv.org/pdf/1703.08383.pdf)
+3. **Learning to Compose Domain-Specific Transformations for Data Augmentation** Alexander J. Ratner, Henry R. Ehrenberg, Zeshan Hussain, Jared Dunnmon, Christopher Ré [PDF](https://arxiv.org/pdf/1709.01643.pdf)
 
-### Denoising
+### Denoise
 
 1. **Image Blind Denoising With Generative Adversarial Network Based Noise Modeling** Jingwen Chen, Jiawei Chen, Hongyang Chao, Ming Yang [PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Image_Blind_Denoising_CVPR_2018_paper.pdf)
 
