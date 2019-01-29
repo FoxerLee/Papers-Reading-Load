@@ -21,3 +21,5 @@
 
 1. **Between-class Learning for Image Classification** Yuji Tokozume, Yoshitaka Ushiku, Tatsuya Harada [PDF](https://arxiv.org/pdf/1711.10284.pdf)
 
+### Super Resolution
+1. **Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network** Namhyuk Ahn, Byungkon Kang, Kyung-Ah Sohn [PDF](https://arxiv.org/pdf/1803.08664.pdf) [Code](https://github.com/nmhkahn/CARN-pytorch)
