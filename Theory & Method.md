@@ -19,6 +19,7 @@
 2. **Smart Augmentation Learning an Optimal Data Augmentation Strategy** Joseph Lemley, Shabab Bazrafkan, Peter Corcoran [PDF](https://arxiv.org/pdf/1703.08383.pdf)
 3. **Learning to Compose Domain-Specific Transformations for Data Augmentation** Alexander J. Ratner, Henry R. Ehrenberg, Zeshan Hussain, Jared Dunnmon, Christopher Ré [PDF](https://arxiv.org/pdf/1709.01643.pdf)
 4. **Box-level Segmentation Supervised Deep Neural Networks for Accurate and Real-time Multispectral Pedestrian Detection** Yanpeng Cao, Dayan Guan, Yulun Wub, Jiangxin Yang, Yanlong Cao, Michael Ying Yang [PDF](https://arxiv.org/pdf/1902.05291.pdf)
+4. **Path Aggregation Network for Instance Segmentation** Shu Liu, Lu Qi, Haifang Qin, Jianping Shi, Jiaya Jia [PDF](https://arxiv.org/pdf/1803.01534.pdf)
 
 ### Denoise
 
