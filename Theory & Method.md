@@ -5,6 +5,7 @@
 2. **ResNet - Deep Residual Learning for Image Recognition** Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun [PDF](https://arxiv.org/pdf/1512.03385.pdf)
 3. **Spatial transformer networks** Max Jaderberg, Karen Simonyan, Andrew Zisserman, Koray Kavukcuoglu [PDF](https://arxiv.org/pdf/1506.02025.pdf)
 4. **Training Neural Networks with Local Error Signals** Arild Nøkland, Lars H. Eidnes [PDF](https://arxiv.org/pdf/1901.06656v1.pdf)
+5. **Dynamic Routing Between Capsules** Sara Sabour, Nicholas Frosst [PDF](https://arxiv.org/pdf/1710.09829.pdf)
 
 ### Data Analysis
 
