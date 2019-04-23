@@ -15,7 +15,8 @@
 
 1. **Learning to Compare: Relation Network for Few-Shot Learning** Flood Sung, Yongxin Yang, Li Zhang, Tao Xiang, Philip H.S. Torr, Timothy M. Hospedales [PDF](https://arxiv.org/pdf/1711.06025.pdf)
 2. **Few-shot Learning - A Survey** Yaqing Wang, Quanming Yao [PDF](https://arxiv.org/pdf/1904.05046.pdf)
-
+3. **Prototypical Networks for Few-shot Learning** Jake Snell, Kevin Swersky, Richard S. Zemel [PDF](https://arxiv.org/pdf/1703.05175.pdf)
+4. **Meta-Transfer Learning for Few-Shot Learning** Qianru Sun, Yaoyao Liu, Tat-Seng Chua, Bernt Schiele [PDF](https://arxiv.org/pdf/1812.02391.pdf)
 
 ### Data Augmentation
 1. **AutoAugment: Learning Augmentation Policies from Data** Ekin D. Cubuk, Barret Zoph, Dandelion Mané, Vijay Vasudevan, Quoc V. Le [PDF](https://arxiv.org/pdf/1805.09501.pdf)
