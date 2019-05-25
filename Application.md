@@ -25,4 +25,4 @@
 1. **Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network** Namhyuk Ahn, Byungkon Kang, Kyung-Ah Sohn [PDF](https://arxiv.org/pdf/1803.08664.pdf) [Code](https://github.com/nmhkahn/CARN-pytorch)
 
 ### GAN
-1. **PaperRobot: Incremental Draft Generation of Scientific Ideas** Qingyun Wang, Lifu Huang, Zhiying Jiang, et al. [PDF](https://arxiv.org/pdf/1905.07870v2.pdf)
+1. **PaperRobot: Incremental Draft Generation of Scientific Ideas** Qingyun Wang, Lifu Huang, Zhiying Jiang, et al. [PDF](https://arxiv.org/pdf/1905.07870v2.pdf) Code[https://github.com/EagleW/PaperRobot]
