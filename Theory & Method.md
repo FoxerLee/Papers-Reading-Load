@@ -7,6 +7,7 @@
 4. **Training Neural Networks with Local Error Signals** Arild Nøkland, Lars H. Eidnes [PDF](https://arxiv.org/pdf/1901.06656v1.pdf)
 5. **Dynamic Routing Between Capsules** Sara Sabour, Nicholas Frosst [PDF](https://arxiv.org/pdf/1710.09829.pdf)
 6. **Deep High-Resolution Representation Learning for Human Pose Estimation** Ke Sun, Bin Xiao, Dong Liu, Jingdong Wang [PDF](https://arxiv.org/pdf/1902.09212.pdf) [Code](https://github.com/HRNet)
+7. **EfficientNet- Rethinking Model Scaling for Convolutional Neural Networks** Mingxing Tan, Quoc V. Le [PDF](https://arxiv.org/pdf/1905.11946.pdf)
 
 ### Data Analysis
 
